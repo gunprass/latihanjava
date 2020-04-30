@@ -84,20 +84,15 @@
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="txtnamabarang" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
+                          <Component id="cbkategori" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="txtkode" alignment="0" min="-2" pref="117" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="1" attributes="0">
-                          <Group type="102" alignment="1" attributes="0">
-                              <Component id="txtkode" min="-2" pref="117" max="-2" attributes="0"/>
-                              <EmptySpace max="32767" attributes="0"/>
-                              <Component id="btnSimpan" min="-2" max="-2" attributes="0"/>
-                          </Group>
-                          <Group type="102" alignment="1" attributes="0">
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="txtnamabarang" alignment="0" min="-2" pref="188" max="-2" attributes="0"/>
-                                  <Component id="cbkategori" alignment="0" min="-2" max="-2" attributes="0"/>
-                              </Group>
-                              <EmptySpace max="32767" attributes="0"/>
-                              <Component id="btnBatal" min="-2" pref="67" max="-2" attributes="0"/>
-                          </Group>
+                          <Component id="btnSimpan" max="32767" attributes="0"/>
+                          <Component id="btnBatal" max="32767" attributes="0"/>
                       </Group>
                       <EmptySpace min="49" pref="49" max="-2" attributes="0"/>
                   </Group>
